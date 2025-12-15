@@ -24,6 +24,7 @@ Bill of materials
 1x 40 pin male headers
 20x Female - female jumper wires
 3d printed parts
+Acrylic sheet
 PCB
 
 
