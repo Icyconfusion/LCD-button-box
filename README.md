@@ -19,12 +19,19 @@ The button box connects to devices by bluetooth, but requires a micro usb power 
 
 Bill of materials
 1x ESP32 Devkit V1
+
 24x Tactile switch 6x6x5mm
+
 1x 3.5" TFT 480x320 LCD screen
+
 1x 40 pin male headers
+
 20x Female - female jumper wires
+
 3d printed parts
+
 Acrylic sheet
+
 PCB
 
 
